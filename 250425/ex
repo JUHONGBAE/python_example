@@ -1,0 +1,19 @@
+#print("Hello\nWorld")
+#a=\
+#print("Hello", a, "\", "World")
+str11 = "BAE"
+str12 = "JUHONG"
+
+str13 = "123456"
+str14 = "7894561"
+
+str15 = "qwer"
+str16 = "asdf.com"
+
+# "-"와 "@"를 변수로 정의
+str17 = "-"
+str18 = "@"
+
+print(str11 + str12)
+print(str13 + str17 + str14)
+print(str15 + str18 + str16)                                                                                       
